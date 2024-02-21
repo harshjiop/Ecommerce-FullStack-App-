@@ -1,7 +1,3 @@
-export const DB_NAME = "NewLinkStock";
-export const DB_URL =
-  "mongodb+srv://Harsh:Harsh123@newlinkstock.xe5pugx.mongodb.net";
-
 export const PORT = 8000;
 export const Cors_Origin = "http://localhost:5173";
 // export const Cors_Origin = process.env.UI_URL;
